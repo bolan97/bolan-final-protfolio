@@ -8,7 +8,6 @@ body{
 
 h1{
     font-size: 30px;
-    
 }
 
 p{
@@ -25,7 +24,6 @@ main{
     box-sizing: border-box;
     margin: 0 auto;
     padding: 3%;
-
 }
 
 footer{
@@ -53,7 +51,7 @@ footer{
     padding: 5px;
 }
 
-.flex-item aa{
+.flex-item a11{
     display: flex;
     width: 100%;
     height: 0;
@@ -69,7 +67,39 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
-.flex-item a2{
+.flex-item a12{
+    display: flex;
+    width: 100%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/3a7984_e0b5be4be04d437294ce30ef9b8c68da_mv2.jpg); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:#4f4f4f;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+.flex-item a13{
+    display: flex;
+    width: 100%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/3a7984_248f0633183b4b42b3b25f3f5bb3fe58_mv2.jpg); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:#4f4f4f;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+.flex-item a21{
     display: flex;
     width: 100%;
     height: 0;
@@ -85,7 +115,7 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
-.flex-item a3{
+.flex-item a22{
     display: flex;
     width: 100%;
     height: 0;
@@ -101,7 +131,7 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
-.flex-item a4{
+.flex-item a23{
     display: flex;
     width: 100%;
     height: 0;
@@ -116,6 +146,39 @@ footer{
     color:#4f4f4f;
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
+
+.flex-item a24{
+    display: flex;
+    width: 100%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/5523.jpg); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:#4f4f4f;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+.flex-item a25{
+    display: flex;
+    width: 100%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/myCanvas.jpg); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:#4f4f4f;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
 
 .flex-item a{
     display: flex;
@@ -141,6 +204,45 @@ footer{
 
 
 .flex-item a:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a11:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a12:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a13:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a21:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a22:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a23:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+
+.flex-item a24:hover{
+    color:#bbbbbb;
+    background-size: 120%;
+}
+.flex-item a25:hover{
     color:#bbbbbb;
     background-size: 120%;
 }
